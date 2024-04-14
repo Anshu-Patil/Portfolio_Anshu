@@ -120,7 +120,7 @@ html{
 	border-radius: 10px;
 	font-size: 15px;
 	font-weight: bolder;
-	background-color: seagreen;
+	background-color: darkblue;
 	color: white;
 	transition-duration: 1s;
 }
@@ -130,16 +130,16 @@ html{
 .rsmbtn:hover{
 	background-color: white;
 	color: royalblue;
-	border: 5px solid seagreen;
+	border: 5px solid darkblue;
 	transform: scale(1.1);
 }
 .about-section{
-	height: 500px;
+	height: 600px;
 	width: 100%;
 	background-color: whitesmoke;
 }
 .aboutmain{
-	height: 500px;
+	height: 550px;
 	width: 100%;
 	display: flex;
 	font-size: 25px;
@@ -147,12 +147,12 @@ html{
 	font-weight: bolder;
 }
 .aboutmain div{
-	height: 500px;
+	height: 550px;
 	width: 50%;
 }
 .careerimg{
 	margin-top: 60px;
-	margin-left: 80px;
+	margin-left: 150px;
 	animation-duration: 4s;
 	animation-name: zoom;
 	animation-iteration-count: 1;
@@ -177,7 +177,7 @@ html{
 	text-align: justify;
 	line-height: 40px;
 	text-indent: 100px;
-	word-spacing: 7px;
+	word-spacing: 6px;
 	letter-spacing: 1px;
 }
 #skills{
